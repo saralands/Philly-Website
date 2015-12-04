@@ -1,0 +1,8 @@
+.down-arrow{
+   position: absolute;
+   top: 700px;
+
+   max-width: 570px;
+   margin-left: 50%;
+   transform: translateX(-50%);
+}
